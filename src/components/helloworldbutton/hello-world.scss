@@ -1,0 +1,17 @@
+$btn-font: white;
+$body-font: greenyellow;
+
+.hello-world {
+  font-size: 12px;
+  font-weight: 500;
+  padding: 7px 14px;
+  border-radius: 10px;
+  border: 1px solid gray;
+  background: orangered;
+  color: $btn-font;
+}
+
+.hello-world-text {
+  color: $body-font;
+  font-weight: bold;
+}
